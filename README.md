@@ -9,6 +9,6 @@ Question is a diagnostic tool and symptom tracker. It’s 2 main functions are:
 Each data point in Question is assigned to a type such as 'Subject' or 'Description', and that data gets dispalyed in the UI as a tree:
 ![test-1](https://github.com/williambendick/Question-DB/assets/41596014/fdf9cbfa-5cbe-46c7-977b-fcaaae3c0432)
 
-Question is a [local-first](https://www.inkandswitch.com/local-first/) application.
+Question is a [local-first](https://www.inkandswitch.com/local-first/){:target="_blank"} application.
 
 ## Question DB Schema
