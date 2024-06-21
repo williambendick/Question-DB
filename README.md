@@ -18,7 +18,8 @@ Question is a [local-first](https://www.inkandswitch.com/local-first/) applicati
 
 ## Scripts
 
-### Create Tables
+### Table Creation
+### Data Population
 ### Queries
 
 ## Database File
