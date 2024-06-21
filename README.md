@@ -14,4 +14,12 @@ Each data point in Question is assigned to a type such as 'Subject' or 'Descript
 
 Question is a [local-first](https://www.inkandswitch.com/local-first/) application.
 
-## Question DB Schema
+## Database Schema
+
+## Scripts
+
+### Create Tables
+### Queries
+
+## Database File
+Question is a SQLite database contained in a single file (link)
