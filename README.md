@@ -10,6 +10,8 @@ Each data point in Question is assigned to a type such as 'Subject' or 'Descript
                                             
 ![image](https://github.com/williambendick/Question-DB/assets/41596014/070c9cf4-fafb-42bb-b05c-09b8c3554b7d)
 
+![image](https://github.com/williambendick/Question-DB/assets/41596014/b4a785af-b145-406d-a090-cbc925581dd0)
+
 Question is a [local-first](https://www.inkandswitch.com/local-first/) application.
 
 ## Question DB Schema
