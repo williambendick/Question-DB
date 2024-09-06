@@ -15,6 +15,7 @@ Each data point in Question is assigned to a type such as 'Subject' or 'Descript
 Question is a [local-first](https://www.inkandswitch.com/local-first/) application.
 
 ## Database Schema
+![diagram-3](https://github.com/user-attachments/assets/e0a0f190-ab48-4c43-b1aa-490654b9867f)
 
 ## Scripts
 
