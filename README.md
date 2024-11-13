@@ -15,7 +15,7 @@ Question is a [Local-first](https://www.inkandswitch.com/local-first/) applicati
 
 Question DB is a relational database that uses an [EAV data model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model). Data is organized in a hierarchy of nodes where each node belongs to a particular type. 
 
-![image](https://raw.githubusercontent.com/williambendick/Question-DB/refs/heads/main/Images/erd-2.png)
+![image](https://raw.githubusercontent.com/williambendick/Question-DB/refs/heads/main/Images/erd.png)
 
 Projects, Types, Nodes, and Instances are the fundamental entities of the schema:
 
@@ -49,7 +49,7 @@ Data Population
 Queries  
 
 ## Database File
-Question is a SQLite database contained in a single file (link)
+This SQLite database contained in a single file (link)
 
 ## Question Application UI
 
@@ -60,4 +60,3 @@ Question is a SQLite database contained in a single file (link)
 ![image](https://github.com/williambendick/Question-DB/assets/41596014/b4a785af-b145-406d-a090-cbc925581dd0)
 
 Return to Question Application section
-      
