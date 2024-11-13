@@ -60,3 +60,7 @@ This SQLite database contained in a single file (link)
 ![image](https://github.com/williambendick/Question-DB/assets/41596014/b4a785af-b145-406d-a090-cbc925581dd0)
 
 Return to Question Application section
+
+## Detailed ER Diagram
+
+![image](https://raw.githubusercontent.com/williambendick/Question-DB/refs/heads/main/Images/erd-detail.png)
